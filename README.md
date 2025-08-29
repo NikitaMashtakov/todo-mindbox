@@ -1,6 +1,6 @@
 # You can check this project without installation at:
 
-[My To-Do App on React](https://todo-mindbox-sage-two.vercel.app)
+[My To-Do App on React](https://todo-mindbox-black.vercel.app)
 
 ## How to run project locally
 
